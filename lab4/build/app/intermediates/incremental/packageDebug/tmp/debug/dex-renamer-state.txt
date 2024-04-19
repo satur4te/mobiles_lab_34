@@ -1,0 +1,4 @@
+#Fri Apr 19 08:03:17 MSK 2024
+base.0=/home/saturerate/AndroidStudioProjects/testlab4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
